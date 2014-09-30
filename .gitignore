@@ -1,0 +1,20 @@
+# IntelliJ IDEA #
+#################
+*.iml
+.idea
+atlassian-ide-plugin.xml
+
+# Maven #
+#########
+target
+
+# Eclipse #
+###########
+.classpath
+.settings
+.project
+*.launch
+
+*.log
+*.ppk
+Thumbs.db
