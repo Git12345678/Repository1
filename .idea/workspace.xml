@@ -675,7 +675,13 @@
       <option name="project" value="LOCAL" />
       <updated>1447333905297</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1st trial">
+      <created>1447333995754</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1447333995754</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
