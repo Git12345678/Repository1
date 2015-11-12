@@ -24,6 +24,6 @@ public class ExampleSteps {
 
     @Then("I get the $Result = $number1 + $number2")
     public void name3(){
-        Assert.assertEquals(result,33);
+        Assert.assertEquals(result,3);
     }
 }
